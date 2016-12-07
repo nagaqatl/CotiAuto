@@ -2,7 +2,7 @@ package sample;
 
 public class sample {
 	public static void main (String args[]){
-		System.out.println("welcome to GIT");
+		System.out.println("This is working branch");
 	}
 
 }
